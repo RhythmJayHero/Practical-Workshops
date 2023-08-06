@@ -1,0 +1,3 @@
+// TEST TEXT FILE
+// Creating this file to check if git repository is properly cloned
+// TODO: delete this file.
